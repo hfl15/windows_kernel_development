@@ -1,0 +1,31 @@
+﻿生成启动时间为 2015/5/2 16:12:51。
+     1>项目“D:\driver develop\HOOK\HookClipboard\MonitorDll\MonitorDll.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\MonitorDll.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         f:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MonitorDll.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MonitorDll.cpp
+         MonitorDll.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         f:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\driver develop\HOOK\HookClipboard\Debug\MonitorDll.dll" /INCREMENTAL /NOLOGO /DEF:".\MonitorDll.def" /MANIFEST /ManifestFile:"Debug\MonitorDll.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\driver develop\HOOK\HookClipboard\Debug\MonitorDll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\driver develop\HOOK\HookClipboard\Debug\MonitorDll.lib" /MACHINE:X86 /DLL Debug\MonitorDll.res
+         Debug\MonitorDll.dll.embed.manifest.res
+         Debug\MonitorDll.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MonitorDll.dll.embed.manifest" /manifest Debug\MonitorDll.dll.intermediate.manifest "f:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         MonitorDll.vcxproj -> D:\driver develop\HOOK\HookClipboard\Debug\MonitorDll.dll
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MonitorDll.unsuccessfulbuild”。
+         正在对“Debug\MonitorDll.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\driver develop\HOOK\HookClipboard\MonitorDll\MonitorDll.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.43

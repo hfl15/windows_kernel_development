@@ -1,0 +1,35 @@
+﻿生成启动时间为 2015/6/25 21:41:05。
+     1>项目“D:\driver develop\ProcessProtecting\MonitorDll\MonitorDll.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\MonitorDll.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         f:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _USRDLL /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\MonitorDll.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MonitorDll.cpp
+         MonitorDll.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         f:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\driver develop\ProcessProtecting\Debug\MonitorDll.dll" /INCREMENTAL /NOLOGO /DEF:".\MonitorDll.def" /MANIFEST /ManifestFile:"Debug\MonitorDll.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\driver develop\ProcessProtecting\Debug\MonitorDll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\driver develop\ProcessProtecting\Debug\MonitorDll.lib" /MACHINE:X86 /DLL Debug\MonitorDll.res
+         Debug\MonitorDll.dll.embed.manifest.res
+         Debug\MonitorDll.obj
+         Debug\stdafx.obj
+            正在创建库 D:\driver develop\ProcessProtecting\Debug\MonitorDll.lib 和对象 D:\driver develop\ProcessProtecting\Debug\MonitorDll.exp
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MonitorDll.dll.embed.manifest" /manifest Debug\MonitorDll.dll.intermediate.manifest "f:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\MonitorDll.dll.embed.manifest.res" Debug\MonitorDll_manifest.rc 
+       LinkEmbedManifest:
+         f:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\driver develop\ProcessProtecting\Debug\MonitorDll.dll" /INCREMENTAL /NOLOGO /DEF:".\MonitorDll.def" /MANIFEST /ManifestFile:"Debug\MonitorDll.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\driver develop\ProcessProtecting\Debug\MonitorDll.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\driver develop\ProcessProtecting\Debug\MonitorDll.lib" /MACHINE:X86 /DLL Debug\MonitorDll.res
+         Debug\MonitorDll.dll.embed.manifest.res
+         Debug\MonitorDll.obj
+         Debug\stdafx.obj
+         MonitorDll.vcxproj -> D:\driver develop\ProcessProtecting\Debug\MonitorDll.dll
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MonitorDll.unsuccessfulbuild”。
+         正在对“Debug\MonitorDll.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\driver develop\ProcessProtecting\MonitorDll\MonitorDll.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.71
