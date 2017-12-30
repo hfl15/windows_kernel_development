@@ -1,0 +1,16 @@
+
+
+386_OBJECTS=\
+ $(OBJ_PATH)\$O\comcap.obj \
+
+
+
+
+
+# lowercased
+BASEDIR=e:\winddk\7600.16385.1
+OBJECT_ROOT=e:\winddk\7600.16385.1
+MAKEDIR_LOWERCASE=e:\winddk\comcap
+OBJ_PATH=e:\winddk\comcap
+CONCURRENT_MIDL=0
+CONCURRENT_MANIFEST_BUILD=0

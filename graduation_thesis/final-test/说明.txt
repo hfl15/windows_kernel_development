@@ -1,0 +1,13 @@
+.inf	安装过滤驱动
+.sys	过了驱动
+clent.exe 客户端
+server.exe 服务器端
+MonitorDll.dll  HOOK API，跟client.exe放在同一个目录下。
+DllModel.dll	跟client.exe放在同一个目录下
+
+
+测试：
+	【1】要先安装过滤驱动。
+	【2】net start 启动过滤驱动
+	【3】启动服务器
+	【4】启动客户端，连接

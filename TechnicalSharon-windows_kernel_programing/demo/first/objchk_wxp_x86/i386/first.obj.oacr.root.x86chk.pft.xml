@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+<OACRDEFECTCOUNT>2</OACRDEFECTCOUNT>
+<OACRERRORCOUNT>0</OACRERRORCOUNT>
+<DEFECT _seq="1"><SFA><LINE>19</LINE><COLUMN>0</COLUMN><FILENAME>first.c</FILENAME><FILEPATH>e:\winddk\first\</FILEPATH></SFA><DEFECTCODE>28101</DEFECTCODE><DESCRIPTION>The Drivers module has inferred that the current function is a DRIVER_INITIALIZE function:  This is informational only. No problem has been detected.</DESCRIPTION><FUNCTION>DriverEntry</FUNCTION><FUNCLINE>19</FUNCLINE><PATH/></DEFECT>
+<DEFECT _seq="2"><SFA><LINE>26</LINE><COLUMN>22</COLUMN><FILENAME>first.c</FILENAME><FILEPATH>e:\winddk\first\</FILEPATH></SFA><DEFECTCODE>28155</DEFECTCODE><DESCRIPTION>The function being assigned or passed should be a DRIVER_UNLOAD function:  Add the declaration 'DRIVER_UNLOAD DriverUnload;' before the current first declaration of DriverUnload.</DESCRIPTION><FUNCTION>DriverEntry</FUNCTION><FUNCLINE>19</FUNCLINE><PATH/></DEFECT>
+</DEFECTS>
